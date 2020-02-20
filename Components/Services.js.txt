@@ -1,0 +1,15 @@
+// Servicesscreen.js
+import React, { Component } from 'react';
+import { Button, View, Text } from 'react-native';
+import { createStackNavigator, createAppContainer } from 'react-navigation';
+
+export default class Servicesscreen extends Component {
+  render() {
+    return (
+      <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+        <Text>Services</Text>
+We develop from simplest presentation websites to full-fledged web application. Present us with your unique needs. A personalized web solution is tailored to the way your business works and can thus improve every aspect of it, from efficiency to turnover.
+      </View>
+    )
+  }
+}

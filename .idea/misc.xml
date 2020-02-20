@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/@unimodules/core/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/@unimodules/react-native-adapter/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-app-loader-provider/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-constants/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-error-recovery/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-file-system/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-font/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-keep-awake/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-linear-gradient/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-location/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-permissions/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-sqlite/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/expo-web-browser/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native-view-shot/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/buck-runner/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native/RNTester/android/app/src/debug/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native/RNTester/android/app/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native/template/android/app/src/debug/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/react-native/template/android/app/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-barcode-scanner-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-camera-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-constants-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-face-detector-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-file-system-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-font-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-image-loader-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-permissions-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-sensors-interface/android/src/main/AndroidManifest.xml" />
+    <file type="android" url="file://$PROJECT_DIR$/node_modules/unimodules-task-manager-interface/android/src/main/AndroidManifest.xml" />
+  </component>
+</project>
